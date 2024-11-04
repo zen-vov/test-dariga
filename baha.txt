@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello i am Baha senior pomidor developer of plov dlsfjldsjfl
+=======
+Hello i am Baha senior pomidor developer of all world
+>>>>>>> 6a8341f3c280a501ec89f6bd143316c709a907a5
